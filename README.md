@@ -179,9 +179,9 @@ python python/run_sql_queries.py
 
 ## 👨‍💻 Author
 
-**Abhay Yadav**
-- 🔗 [LinkedIn](https://linkedin.com/in/abhayadav69)
-- 💻 [GitHub](https://github.com/abhayadav692-sys)
+**Sahil Misal**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-misal-148752332/)
+- 💻 [GitHub](https://github.com/sahilmisal09)
 - 🛠️ Skills: SQL · Python · Power BI · Tableau · Excel
 
 ---
